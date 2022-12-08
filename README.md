@@ -1,7 +1,7 @@
 # Microsofthacks 
 <br>
 
-- Watch Project Demo - [LINK](https://youtu.be/0GZ_3DighyE)
+- Watch Project Demo - [youtube](https://youtu.be/0GZ_3DighyE)
 <br>
 
 - Web Page - [https://twilightbot.azurewebsites.net/](https://twilightbot.azurewebsites.net/)
