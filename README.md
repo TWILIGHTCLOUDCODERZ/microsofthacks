@@ -1,4 +1,10 @@
 # Microsofthacks Watch Project Demo - [LINK](https://youtu.be/0GZ_3DighyE)
+<br>
+
+- Web Page - [https://twilightbot.azurewebsites.net/](https://twilightbot.azurewebsites.net/)
+<br>
+ 
+- Android - [Bot-Apk](https://drive.google.com/file/d/1UDit-wS1xf8yZNlONfpBIV3rC_DmarMZ/view)
 ## Inspiration
 Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
@@ -47,10 +53,7 @@ scheduleappointments easily and securely
 ![image](https://user-images.githubusercontent.com/101945531/206429452-4676ca46-5d34-44ed-b814-2362e9a4dd9a.png)
 
 ## How we built it
-<br>
-Web Page - [https://twilightbot.azurewebsites.net/](https://twilightbot.azurewebsites.net/)
- <br>
-Android - [Bot-Apk](https://drive.google.com/file/d/1UDit-wS1xf8yZNlONfpBIV3rC_DmarMZ/view)
+
 <br>
 The Personal care Chatbot was created using Azure Health Bot , a provider of AI-driven solutions for medical diagnosis. By combining ChatBot’s technology and Infermedica's template flow we created a simple tool that helps self-evaluate the risk of infection and support people seeking medical advice.
 
