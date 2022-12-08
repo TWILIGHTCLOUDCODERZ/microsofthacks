@@ -14,6 +14,8 @@ and other representatives interact with. Building an instanceallows you to:
 <br>
 The Health BotServicecontains a built-in medical database, including triage protocols. You can also extend
 a health bot instanceto includeyour own scenarios and integrate with other ITsystems and data sources.
+<br>
+![image](https://user-images.githubusercontent.com/101945531/206423236-d8045f4e-0e52-428c-9782-fef965251204.png)
 
 ## What it does
 Bot asks users questions like their age, gender, and location, any symptoms they’re experiencing, and whether they may have encountered diagnosed with Asthma, Cold, Headache, Breathing issue.
@@ -33,8 +35,6 @@ scheduleappointments easily and securely
 - Insurers have built health bot instances that givetheir customers an easy way to look up the status of a claim and ask questions about benefits and services.
 - Providers have built health bot instances that triage patient issues with a symptom checker, help patients find appropriate care,and look up nearby doctors.
 <br>
-
-![image](https://user-images.githubusercontent.com/101945531/206423236-d8045f4e-0e52-428c-9782-fef965251204.png)
 
 **Deliver intelligent, conversational healthcare experiences at scale:-**
 <br>
