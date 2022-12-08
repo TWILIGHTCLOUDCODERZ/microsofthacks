@@ -30,14 +30,9 @@ Bot asks users questions like their age, gender, and location, any symptoms they
 
 ![symptom checker](https://user-images.githubusercontent.com/101945531/192080454-a6577ea5-7e62-43c8-a17b-fd8121b5a260.png)
 
-<br>
-
-
-<br> 
-
 ## How we built it
 <br>
-Web Page - [https://twilightbot.azurewebsites.net/]([https://twilightbot.azurewebsites.net/])
+Web Page - [https://twilightbot.azurewebsites.net/](https://twilightbot.azurewebsites.net/)
 <br>
 The Personal care Chatbot was created using Azure Health Bot , a provider of AI-driven solutions for medical diagnosis. By combining ChatBot’s technology and Infermedica's template flow we created a simple tool that helps self-evaluate the risk of infection and support people seeking medical advice.
 
@@ -47,9 +42,20 @@ The Personal care Chatbot was created using Azure Health Bot , a provider of AI-
 
 - Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration.
 
+
+**Configuration:-**
+The Health BotService provides endless flexibility of useto Microsoft partners:
+- Uniquescenarios can beauthored by partners for their health bot instances to extend the baseline scenarios and support their own flows.
+- The health bot instance's behavior can beconfigured to match the partner's usecases, processes,and scenarios.
+- The health bot instancecan easily beconnected to partners' information systems---for example, systems that manageEMR, health information,and customer information.
+- The health bot instancecan beeasily integrated into other systems such as web sites,chat channels,and digital personal assistants.
+
 ## Challenges we ran into
 main challenge is integration part , but azure document helped us and finally we made our project live.
-
+Each health bot instanceis easily managed and monitored by Microsoft partners via the Health BotService's
+management portal and management API.The management portal provides theability to definethe health bot
+instance's behavior in fine detail and to monitor usage with built-in reports. Management APIallows the partner
+to embed the health bot instanceand to securely exchange data and information.
 ## What we learned
 Learnt about  azure health bot service
 
