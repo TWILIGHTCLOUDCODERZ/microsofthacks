@@ -32,12 +32,12 @@ Bot asks users questions like their age, gender, and location, any symptoms they
 
 <br>
 
-![tect bot](https://user-images.githubusercontent.com/113318368/192083317-44f3983e-96d4-4948-8016-5862badb0b02.jpg)
+
 <br> 
 
 ## How we built it
 <br>
-Web Page - [https://twilightcloudcoderz.github.io/Elevate-Hacks-2/](https://twilightcloudcoderz.github.io/Elevate-Hacks-2/)
+Web Page - [https://twilightbot.azurewebsites.net/]([https://twilightbot.azurewebsites.net/])
 <br>
 The Personal care Chatbot was created using Azure Health Bot , a provider of AI-driven solutions for medical diagnosis. By combining ChatBot’s technology and Infermedica's template flow we created a simple tool that helps self-evaluate the risk of infection and support people seeking medical advice.
 
