@@ -58,7 +58,21 @@ The Personal care Chatbot was created using Azure Health Bot , a provider of AI-
 
 - Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration.
 
-
+**Conversation:-**
+When using the Handoff feature,additional conversation states areintroduced into your bot runtime.
+- Bot state: Theend user is speaking with the bot.This is thetypical conversation state.
+- Waiting state: Theend user has triggered a handoff scenario and is waiting to beconnected with an agent.
+- Agent state: Theend user has been connected to an agentand they are having a conversation.
+ End userexperience
+Connecting to agent: If thereare onlineagents, theend user and agent go through a connection sequence
+beforethelivechat begins.
+1. Theend user says something that triggers the handoff connection sequence
+2. Theend user is advised that they will soon beconnected to an agent
+3. Theend user is added to the queueand theagents receivea push notification
+4. Theagent uses a "Connect" command to talk to theend user that has been in the queuethelongest.
+5. A connection is established between theagentand end user
+6. Theend user receives a notification they aretalking with an agent
+7. Thelivechat continues until theagentends theinteraction
 **Configuration:-**
 The Health BotService provides endless flexibility of useto Microsoft partners:
 - Uniquescenarios can beauthored by partners for their health bot instances to extend the baseline scenarios and support their own flows.
