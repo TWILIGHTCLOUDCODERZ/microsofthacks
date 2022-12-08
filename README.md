@@ -8,6 +8,7 @@
 <br>
  
 - Android - [Bot-Apk](https://drive.google.com/file/d/1UDit-wS1xf8yZNlONfpBIV3rC_DmarMZ/view)
+
 ## Inspiration
 Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
