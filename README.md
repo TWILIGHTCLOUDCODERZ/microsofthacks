@@ -2,8 +2,24 @@
 ## Inspiration
 Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
+The Health BotServiceis ideal for developers in IT departments of healthcare organizations such as providers,
+pharmaceutical companies, tele-medecine providers,and health insurers. Using theservice, healthcare
+organizations can build a "health bot instance"and integrateit with their systems that patients, nurses, doctors,
+and other representatives interact with. Building an instanceallows you to:
+<br>
+- Improve processes
+- Improveservices
+- Improve outcomes
+- Reduces cost
+<br>
+The Health BotServicecontains a built-in medical database, including triage protocols. You can also extend
+a health bot instanceto includeyour own scenarios and integrate with other ITsystems and data sources.
+
 ## What it does
 Bot asks users questions like their age, gender, and location, any symptoms they’re experiencing, and whether they may have encountered diagnosed with Asthma, Cold, Headache, Breathing issue.
+
+- Insurers have built health bot instances that givetheir customers an easy way to look up the status of a claim and ask questions about benefits and services.
+- Providers have built health bot instances that triage patient issues with a symptom checker, help patients find appropriate care,and look up nearby doctors.
 
 **Deliver intelligent, conversational healthcare experiences at scale:-**
 <br>
