@@ -1,4 +1,4 @@
-# microsofthacks Demo Link - [LINK](https://youtu.be/0GZ_3DighyE))
+# microsofthacks Watch Project Demo - [LINK](https://youtu.be/0GZ_3DighyE)
 ## Inspiration
 Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
