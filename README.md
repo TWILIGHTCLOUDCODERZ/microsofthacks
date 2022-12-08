@@ -44,7 +44,7 @@ scheduleappointments easily and securely
 - Understands healthcare intents by leveraging built-in language models tuned to medical terminology
 - Handles interruptions, topic changes, human error and complex medical questions
 
-![symptom checker](https://user-images.githubusercontent.com/101945531/192080454-a6577ea5-7e62-43c8-a17b-fd8121b5a260.png)
+![image](https://user-images.githubusercontent.com/101945531/206429452-4676ca46-5d34-44ed-b814-2362e9a4dd9a.png)
 
 ## How we built it
 <br>
