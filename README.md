@@ -65,6 +65,9 @@ The Health BotService provides endless flexibility of useto Microsoft partners:
 - The health bot instance's behavior can beconfigured to match the partner's usecases, processes,and scenarios.
 - The health bot instancecan easily beconnected to partners' information systems---for example, systems that manageEMR, health information,and customer information.
 - The health bot instancecan beeasily integrated into other systems such as web sites,chat channels,and digital personal assistants.
+<br>
+
+![image](https://user-images.githubusercontent.com/101945531/206424000-c359aa9a-8312-4759-8311-ba0c38d15735.png)
 
 ## Challenges we ran into
 main challenge is integration part , but azure document helped us and finally we made our project live.
