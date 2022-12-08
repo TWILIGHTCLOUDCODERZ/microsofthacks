@@ -26,6 +26,9 @@ symptoms,causes,and complications; for example, "information about diabetes," "w
 malaria," "tell meabout thecomplications of arthritis."
 - Find doctor type: The health bot instancecan recommend theappropriatetype of doctor to treatan
 illness; for example, "What type of doctor treats diabetes?"
+- Finding providers: Your health bot instancecan allow customers to search for doctors by specialty, innetwork status,and other specifications.
+- Scheduling appointments: Your health bot instancecan be designed to allow your customers to
+scheduleappointments easily and securely
 
 - Insurers have built health bot instances that givetheir customers an easy way to look up the status of a claim and ask questions about benefits and services.
 - Providers have built health bot instances that triage patient issues with a symptom checker, help patients find appropriate care,and look up nearby doctors.
