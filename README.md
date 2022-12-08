@@ -1,1 +1,41 @@
 # microsofthacks
+## Inspiration
+Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
+
+## What it does
+Bot asks users questions like their age, gender, and location, any symptoms they’re experiencing, and whether they may have encountered diagnosed with Asthma, Cold, Headache, Breathing issue.
+
+**Deliver intelligent, conversational healthcare experiences at scale:-**
+<br>
+- Integrates medical content from trusted sources including information on conditions, symptoms, specialists, medications and procedures.
+- Delivers credible triage and symptom checking
+- Understands healthcare intents by leveraging built-in language models tuned to medical terminology
+- Handles interruptions, topic changes, human error and complex medical questions
+
+![symptom checker](https://user-images.githubusercontent.com/101945531/192080454-a6577ea5-7e62-43c8-a17b-fd8121b5a260.png)
+
+<br>
+
+![tect bot](https://user-images.githubusercontent.com/113318368/192083317-44f3983e-96d4-4948-8016-5862badb0b02.jpg)
+<br> 
+
+## How we built it
+<br>
+Web Page - [https://twilightcloudcoderz.github.io/Elevate-Hacks-2/](https://twilightcloudcoderz.github.io/Elevate-Hacks-2/)
+<br>
+The Personal care Chatbot was created using Azure Health Bot , a provider of AI-driven solutions for medical diagnosis. By combining ChatBot’s technology and Infermedica's template flow we created a simple tool that helps self-evaluate the risk of infection and support people seeking medical advice.
+
+- Azure Health Bot- empowers healthcare organizations to build and deploy an AI-powered, compliant, conversational healthcare experience at scale. The service combines built-in medical intelligence with natural language capabilities, extensibility tools and compliance constructs, allowing healthcare organizations such as Providers, Payers, Pharma, HMOs, Telehealth to give people access to trusted and relevant healthcare services and information.
+
+- Azure Webapp service-Start fast and finish faster with source code integration from GitHub, live debugging and one-click publish directly from Microsoft Visual Studio.
+
+- Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration.
+
+## Challenges we ran into
+main challenge is integration part , but azure document helped us and finally we made our project live.
+
+## What we learned
+Learnt about  azure health bot service
+
+## What's next for TWILIGHT CLOUD CODERZ BOT
+Need to check AWS cloud service feature and integrating more features
