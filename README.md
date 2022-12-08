@@ -1,4 +1,4 @@
-# microsofthacks Watch Project Demo - [LINK](https://youtu.be/0GZ_3DighyE)
+# Microsofthacks Watch Project Demo - [LINK](https://youtu.be/0GZ_3DighyE)
 ## Inspiration
 Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
@@ -73,6 +73,10 @@ beforethelivechat begins.
 5. A connection is established between theagentand end user
 6. Theend user receives a notification they aretalking with an agent
 7. Thelivechat continues until theagentends theinteraction
+<br>
+
+![image](https://user-images.githubusercontent.com/101945531/206427431-2a6cfdcf-6cc0-46cb-8fc9-9cf637f4f340.png)
+
 **Configuration:-**
 The Health BotService provides endless flexibility of useto Microsoft partners:
 - Uniquescenarios can beauthored by partners for their health bot instances to extend the baseline scenarios and support their own flows.
@@ -83,12 +87,49 @@ The Health BotService provides endless flexibility of useto Microsoft partners:
 
 ![image](https://user-images.githubusercontent.com/101945531/206424000-c359aa9a-8312-4759-8311-ba0c38d15735.png)
 
+## Health Bot Analytics Reports
+
+Analytics reports areavailablefor you to measurethe behavior of your botand continuously adaptand revisit
+your conversation flows in a responseto your end-users.
+Reports areinteractive;you can select within thereports to cross-filter or focus to areas of interestyou can also
+choosethetime of interest in thetop bar.
+
+![image](https://user-images.githubusercontent.com/101945531/206427959-38d40528-cd83-4cc4-9187-19d5503a376f.png)
+
+<br>
+![image](https://user-images.githubusercontent.com/101945531/206428036-b252b2f1-f960-46ee-b329-939d6709aed9.png)
+
+<br>
+![image](https://user-images.githubusercontent.com/101945531/206428152-97cf76e7-1971-488a-adba-9c3f841e09e9.png)
+
+- Availablereports include:
+- Daily and monthly unique users
+- Built-in session and custom scenarios distribution
+- Triagecomplaint distribution and triage outcome distribution
+- Messages distribution
+- Custom scenario outcome distribution
+- Theratio of unrecognized utterances
+
+## Embed your Health Bot instancein your application using WebChat
+
+You can connectyour Health Bot to interact with your web application’s users through a web chat control
+1. Sign-in to the Health Bot Management Portal
+2. In theleft menu blade,click Channels under Integration.
+3. Select the View action of theWeb Chat channel
+4. Follow thesteps demonstrated in the GitHub repository to embed the Health Bot in the web application as an
+iFrame or as a web pageelement (div embedding).
+
+**Scan and Test:-**
+
+![image](https://user-images.githubusercontent.com/101945531/206428552-d3650419-bf15-4833-a08b-11908af2ab78.png)
+
 ## Challenges we ran into
 main challenge is integration part , but azure document helped us and finally we made our project live.
 Each health bot instanceis easily managed and monitored by Microsoft partners via the Health BotService's
 management portal and management API.The management portal provides theability to definethe health bot
 instance's behavior in fine detail and to monitor usage with built-in reports. Management APIallows the partner
 to embed the health bot instanceand to securely exchange data and information.
+
 ## What we learned
 Learnt about  azure health bot service
 
