@@ -15,6 +15,7 @@ and other representatives interact with. Building an instanceallows you to:
 The Health BotServicecontains a built-in medical database, including triage protocols. You can also extend
 a health bot instanceto includeyour own scenarios and integrate with other ITsystems and data sources.
 <br>
+
 ![image](https://user-images.githubusercontent.com/101945531/206423236-d8045f4e-0e52-428c-9782-fef965251204.png)
 
 ## What it does
