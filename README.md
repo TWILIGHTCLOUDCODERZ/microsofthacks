@@ -16,7 +16,7 @@ The Health BotServicecontains a built-in medical database, including triage prot
 a health bot instanceto includeyour own scenarios and integrate with other ITsystems and data sources.
 <br>
 
-![image](https://user-images.githubusercontent.com/101945531/206429146-450aa665-29f8-4add-8e91-70bc393a638a.png)
+![image](https://user-images.githubusercontent.com/101945531/206429323-fe7571a1-5412-4b75-b23c-9d8ae4530165.png)
 
 ## What it does
 Bot asks users questions like their age, gender, and location, any symptoms they’re experiencing, and whether they may have encountered diagnosed with Asthma, Cold, Headache, Breathing issue.
