@@ -17,6 +17,15 @@ a health bot instanceto includeyour own scenarios and integrate with other ITsys
 
 ## What it does
 Bot asks users questions like their age, gender, and location, any symptoms they’re experiencing, and whether they may have encountered diagnosed with Asthma, Cold, Headache, Breathing issue.
+- Triage/symptom checker, powered by built-in medical protocols: Theend user describes a
+symptom to the health bot instanceand the bot helps the user to understand itand suggests how to
+react; for example, "I havea headache."
+- General information about conditions, symptoms, causes, complications, and more: Loaded
+with medical content, the health bot instancecan provideinformation about medical conditions,
+symptoms,causes,and complications; for example, "information about diabetes," "whatarethecauses of
+malaria," "tell meabout thecomplications of arthritis."
+- Find doctor type: The health bot instancecan recommend theappropriatetype of doctor to treatan
+illness; for example, "What type of doctor treats diabetes?"
 
 - Insurers have built health bot instances that givetheir customers an easy way to look up the status of a claim and ask questions about benefits and services.
 - Providers have built health bot instances that triage patient issues with a symptom checker, help patients find appropriate care,and look up nearby doctors.
